@@ -1,4 +1,4 @@
-# Pagina Forest con HTML5 y CSS3
+# Pagina Forest con HTML5, CSS3 y FLEXBOX
 
 ## ÍNDICE
 1. Intro
